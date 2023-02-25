@@ -80,5 +80,17 @@ img {
 }
 
 section {
-  padding: 60px 0;
+  padding: 60px 15px;
+}
+
+.section__title {
+  color: var(--primary-color);
+  font-weight: 600;
+  margin-bottom: 1.3rem;
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 40px 10px;
+  }
 }
