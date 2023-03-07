@@ -33,7 +33,7 @@
 /* Para el thumb (el botón que se desplaza) */
 ::-webkit-scrollbar-thumb {
   background: #0a1d37; /* Color del thumb */
-  border-radius: 5px; /* Borde redondeado */
+  border-radius: 5px;
 }
 
 /* Para el thumb en estado hover (cuando se pasa el cursor por encima) */
