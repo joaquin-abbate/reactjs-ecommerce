@@ -41,6 +41,7 @@
 .timer__count {
   background: var(--primary-color);
   height: auto;
+  padding: 0;
 }
 
 .timer__count img {
