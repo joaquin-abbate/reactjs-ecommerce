@@ -1,12 +1,13 @@
 import React, { useRef, useEffect } from "react";
 import "./header.css";
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 
 import { Container, Row } from "reactstrap";
 import logo from "../../assets/images/eco-logo.png";
 import userIcon from "../../assets/images/user-icon.png";
 
 import { motion } from "framer-motion";
+import { useSelector } from "react-redux";
 
 const nav__links = [
   { path: "home", display: "Home" },
@@ -19,16 +20,18 @@ const Header = () => {
   const menuRef = useRef(null);
 
   const menuToggle = () => menuRef.current.classList.toggle("active__menu");
-
+  const totalQuantity = useSelector((state) => state.cart.totalQuantity);
   return (
     <header className="header">
       <Container>
         <Row>
           <div className="nav__wrapper">
-            <div className="logo">
-              <img src={logo} alt="logo" />
-              <h1>Shopstar</h1>
-            </div>
+            <Link to={`../home`}>
+              <div className="logo">
+                <img src={logo} alt="logo" />
+                <h1>Shopstar</h1>
+              </div>
+            </Link>
 
             <div className="navigation" ref={menuRef} onClick={menuToggle}>
               <ul className="menu">
@@ -55,7 +58,7 @@ const Header = () => {
 
               <span className="cart__icon">
                 <i class="ri-shopping-bag-line"></i>
-                <span className="badge">1</span>
+                <span className="badge">{totalQuantity}</span>
               </span>
 
               <span>
