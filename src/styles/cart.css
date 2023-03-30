@@ -1,0 +1,23 @@
+.table tr td img {
+  height: 80px !important;
+  width: 80px !important;
+  object-fit: contain;
+}
+
+td i {
+  cursor: pointer;
+  font-size: 1.3rem;
+  padding: 7px;
+  color: var(--primary-color);
+}
+
+td i:hover {
+  background-color: var(--hero-bg);
+  border-radius: 50%;
+  padding: 7px;
+}
+
+td,
+th {
+  color: var(--primary-color);
+}

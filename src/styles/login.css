@@ -1,0 +1,58 @@
+.container__login {
+  margin-top: 50px;
+}
+
+.auth__form {
+  background: var(--primary-color);
+  padding: 40px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.auth__btn {
+  background: #fff;
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+.auth__form p {
+  margin-top: 15px;
+  color: #fff;
+}
+
+.auth__form p a {
+  color: rgba(255, 255, 255, 0.735);
+}
+
+.auth__form p a:hover {
+  color: var(--hero-bg-01);
+}
+
+.auth__form input[type="file"] {
+  color: #fff;
+  cursor: pointer;
+}
+
+.file input {
+  display: none;
+}
+
+.file {
+  border: 1px solid var(--primary-color);
+  background: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  width: auto;
+  height: auto;
+  padding: 15px;
+  max-width: 200px;
+  max-height: 40px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  cursor: pointer;
+}

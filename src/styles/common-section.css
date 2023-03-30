@@ -13,3 +13,13 @@
   font-weight: 600;
   margin-top: 15px;
 }
+
+@media (max-width: 768px) {
+  .common__section {
+    padding: 70px 0;
+  }
+
+  .common__section h1 {
+    font-size: 1.4rem;
+  }
+}
