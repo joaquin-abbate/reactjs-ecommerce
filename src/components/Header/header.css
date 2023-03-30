@@ -12,6 +12,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  max-height: 70px;
 }
 
 .logo {
@@ -79,9 +80,53 @@
   cursor: pointer;
 }
 
-.nav__icons span img {
+.nav__icons .profile-pic img {
   width: 30px;
+  height: 30px;
+  border-radius: 50%;
   cursor: pointer;
+}
+
+.nav__icons .profile-pic {
+  position: relative;
+  z-index: 9;
+}
+
+.profile-pic .profile__actions {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  width: 170px;
+  z-index: 10;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: var(--primary-color);
+  line-height: 30px;
+}
+
+.profile-pic .profile__actions a {
+  color: #fff;
+  font-weight: 500;
+  cursor: default;
+}
+
+.profile-pic .profile__actions a:hover {
+  color: rgba(255, 255, 255, 0.755);
+}
+
+.show__profileActions {
+  visibility: visible;
+
+  opacity: 1;
+  transition: all 0.2s ease-in-out;
+}
+
+.hide__profileActions {
+  display: none;
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
 }
 
 .mobile__menu {
