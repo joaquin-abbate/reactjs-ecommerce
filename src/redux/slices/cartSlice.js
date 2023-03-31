@@ -33,9 +33,12 @@ const cartSlice = createSlice({
           Number(existingItem.totalPrice) + Number(newItem.price);
       }
 
-      state.totalAmount = state.cartItems.reduce(
-        (total, item) => total + Number(item.price) * Number(item.quantity)
-      );
+      state.totalAmount = parseFloat(
+        state.cartItems.reduce(
+          (total, item) => total + Number(item.price) * Number(item.quantity),
+          0
+        )
+      ).toFixed(2);
     },
     deleteItem: (state, action) => {
       const id = action.payload;
@@ -46,10 +49,12 @@ const cartSlice = createSlice({
         state.totalQuantity = state.totalQuantity - existingItem.quantity;
       }
 
-      state.totalAmount = state.cartItems.reduce(
-        (total, item) => total + Number(item.price) * Number(item.quantity),
-        0
-      );
+      state.totalAmount = parseFloat(
+        state.cartItems.reduce(
+          (total, item) => total + Number(item.price) * Number(item.quantity),
+          0
+        )
+      ).toFixed(2);
     },
   },
 });
