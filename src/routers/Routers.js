@@ -25,7 +25,7 @@ const Routers = () => {
         }
       />
       <Route path="login" element={<Login />} />
-      <Route path="shop" element={<Shop />} />
+      <Route path="shop/" element={<Shop />} />
       <Route path="shop/:id" element={<ProductDetails />} />
       <Route path="singup" element={<Singup />} />
     </Routes>
