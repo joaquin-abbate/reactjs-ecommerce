@@ -11,6 +11,7 @@ import { Link } from "react-router-dom";
 const Cart = () => {
   const cartItem = useSelector((state) => state.cart.cartItems);
   const totalAmount = useSelector((state) => state.cart.totalAmount);
+
   return (
     <Helmet title="Cart">
       <CommonSection title="Carrito de compras" />
@@ -47,7 +48,7 @@ const Cart = () => {
                 <h6 className="d-flex aling-items-center justify-content-between">
                   Subtotal
                 </h6>
-                {/* <span className="fs-4 fw-bold">${totalAmount}</span> */}
+                <span className="fs-4 fw-bold">${totalAmount}</span>
               </div>
               <p className="fs-6 mt-2">Impuestos incluidos</p>
               <div>
