@@ -36,9 +36,9 @@ const products = [
     category: "sofa",
     price: 193,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Nuestro sillón de dos plazas combina elegancia y funcionalidad para crear un mueble sofisticado y acogedor. Con su diseño moderno y minimalista, este sofá se adapta perfectamente a cualquier espacio contemporáneo!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si buscas un sofá de dos plazas moderno que ofrezca estilo y comodidad, ¡tenemos justo lo que necesitas. Además, su construcción con materiales de alta calidad garantiza su durabilidad y resistencia, para que puedas disfrutar de su comodidad durante mucho tiempo. ¡No esperes más y dale un toque de estilo y confort a tu hogar con este sofá de dos plazas moderno!",
     reviews: [
       {
         rating: 4.7,
@@ -55,9 +55,9 @@ const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Nuestro sillón de dos plazas combina elegancia y funcionalidad para crear un mueble sofisticado y acogedor. Con su diseño moderno y minimalista, este sofá se adapta perfectamente a cualquier espacio contemporáneo!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si buscas un sofá de dos plazas moderno que ofrezca estilo y comodidad, ¡tenemos justo lo que necesitas. Además, su construcción con materiales de alta calidad garantiza su durabilidad y resistencia, para que puedas disfrutar de su comodidad durante mucho tiempo. ¡No esperes más y dale un toque de estilo y confort a tu hogar con este sofá de dos plazas moderno!",
     reviews: [
       {
         rating: 4.8,
@@ -78,9 +78,9 @@ const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Nuestro sillón de dos plazas combina elegancia y funcionalidad para crear un mueble sofisticado y acogedor. Con su diseño moderno y minimalista, este sofá se adapta perfectamente a cualquier espacio contemporáneo!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si buscas un sofá de dos plazas moderno que ofrezca estilo y comodidad, ¡tenemos justo lo que necesitas. Además, su construcción con materiales de alta calidad garantiza su durabilidad y resistencia, para que puedas disfrutar de su comodidad durante mucho tiempo. ¡No esperes más y dale un toque de estilo y confort a tu hogar con este sofá de dos plazas moderno!",
     reviews: [
       {
         rating: 4.6,
@@ -100,9 +100,9 @@ const products = [
     category: "sofa",
     price: 253,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Nuestro sillón de dos plazas combina elegancia y funcionalidad para crear un mueble sofisticado y acogedor. Con su diseño moderno y minimalista, este sofá se adapta perfectamente a cualquier espacio contemporáneo!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si buscas un sofá de dos plazas moderno que ofrezca estilo y comodidad, ¡tenemos justo lo que necesitas. Además, su construcción con materiales de alta calidad garantiza su durabilidad y resistencia, para que puedas disfrutar de su comodidad durante mucho tiempo. ¡No esperes más y dale un toque de estilo y confort a tu hogar con este sofá de dos plazas moderno!",
     reviews: [
       {
         rating: 4.8,
@@ -122,9 +122,9 @@ const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño contemporáneo y sofisticado, este sofá de alta calidad combina comodidad y estilo para crear un mueble impresionante que se adapta a cualquier espacio moderno.!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si quieres agregar un toque de elegancia y estilo a tu hogar, nuestro sofá moderno es la opción perfecta para ti. Fabricado con materiales de alta calidad, este sofá es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su diseño ergonómico y acogedor lo hace ideal para relajarse y disfrutar de tus momentos de descanso. ¡Agrega un toque de modernidad y confort a tu hogar con este sofá moderno que no dejará a nadie indiferente!",
     reviews: [
       {
         rating: 4.6,
@@ -145,9 +145,9 @@ const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño contemporáneo y sofisticado, este sofá de alta calidad combina comodidad y estilo para crear un mueble impresionante que se adapta a cualquier espacio moderno.!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si quieres agregar un toque de elegancia y estilo a tu hogar, nuestro sofá moderno es la opción perfecta para ti. Fabricado con materiales de alta calidad, este sofá es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su diseño ergonómico y acogedor lo hace ideal para relajarse y disfrutar de tus momentos de descanso. ¡Agrega un toque de modernidad y confort a tu hogar con este sofá moderno que no dejará a nadie indiferente!",
     reviews: [
       {
         rating: 4.6,
@@ -168,9 +168,9 @@ const products = [
     category: "sofa",
     price: 163,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño contemporáneo y sofisticado, este sofá de alta calidad combina comodidad y estilo para crear un mueble impresionante que se adapta a cualquier espacio moderno.!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si quieres agregar un toque de elegancia y estilo a tu hogar, nuestro sofá moderno es la opción perfecta para ti. Fabricado con materiales de alta calidad, este sofá es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su diseño ergonómico y acogedor lo hace ideal para relajarse y disfrutar de tus momentos de descanso. ¡Agrega un toque de modernidad y confort a tu hogar con este sofá moderno que no dejará a nadie indiferente!",
     reviews: [
       {
         rating: 4.6,
@@ -190,9 +190,9 @@ const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Hecha de materiales de alta calidad, esta silla combina estilo y comodidad para crear una pieza funcional y estéticamente atractiva!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si estás buscando una silla moderna que combine estilo y funcionalidad, entonces nuestra silla es la elección perfecta para ti. Con un diseño elegante y sofisticado, esta silla se adapta perfectamente a cualquier espacio moderno. Además, su construcción con materiales de alta calidad la hace resistente y duradera, lo que significa que podrás disfrutar de su comodidad durante mucho tiempo. ¡No busques más y consigue ya esta silla moderna que sin duda será el complemento ideal para tu hogar o espacio de trabajo!",
     reviews: [
       {
         rating: 4.6,
@@ -213,9 +213,9 @@ const products = [
     category: "sofa",
     price: 173,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño contemporáneo y sofisticado, este sofá de alta calidad combina comodidad y estilo para crear un mueble impresionante que se adapta a cualquier espacio moderno.!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si quieres agregar un toque de elegancia y estilo a tu hogar, nuestro sofá moderno es la opción perfecta para ti. Fabricado con materiales de alta calidad, este sofá es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su diseño ergonómico y acogedor lo hace ideal para relajarse y disfrutar de tus momentos de descanso. ¡Agrega un toque de modernidad y confort a tu hogar con este sofá moderno que no dejará a nadie indiferente!",
     reviews: [
       {
         rating: 4.6,
@@ -236,9 +236,9 @@ const products = [
     category: "chair",
     price: 89,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Hecha de materiales de alta calidad, esta silla combina estilo y comodidad para crear una pieza funcional y estéticamente atractiva!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si estás buscando una silla moderna que combine estilo y funcionalidad, entonces nuestra silla es la elección perfecta para ti. Con un diseño elegante y sofisticado, esta silla se adapta perfectamente a cualquier espacio moderno. Además, su construcción con materiales de alta calidad la hace resistente y duradera, lo que significa que podrás disfrutar de su comodidad durante mucho tiempo. ¡No busques más y consigue ya esta silla moderna que sin duda será el complemento ideal para tu hogar o espacio de trabajo!",
     reviews: [
       {
         rating: 4.6,
@@ -259,9 +259,9 @@ const products = [
     category: "chair",
     price: 112,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Hecha de materiales de alta calidad, esta silla combina estilo y comodidad para crear una pieza funcional y estéticamente atractiva!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si estás buscando una silla moderna que combine estilo y funcionalidad, entonces nuestra silla es la elección perfecta para ti. Con un diseño elegante y sofisticado, esta silla se adapta perfectamente a cualquier espacio moderno. Además, su construcción con materiales de alta calidad la hace resistente y duradera, lo que significa que podrás disfrutar de su comodidad durante mucho tiempo. ¡No busques más y consigue ya esta silla moderna que sin duda será el complemento ideal para tu hogar o espacio de trabajo!",
     reviews: [
       {
         rating: 4.6,
@@ -282,9 +282,9 @@ const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -304,9 +304,9 @@ const products = [
     category: "chair",
     price: 99,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Hecha de materiales de alta calidad, esta silla combina estilo y comodidad para crear una pieza funcional y estéticamente atractiva!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Si estás buscando una silla moderna que combine estilo y funcionalidad, entonces nuestra silla es la elección perfecta para ti. Con un diseño elegante y sofisticado, esta silla se adapta perfectamente a cualquier espacio moderno. Además, su construcción con materiales de alta calidad la hace resistente y duradera, lo que significa que podrás disfrutar de su comodidad durante mucho tiempo. ¡No busques más y consigue ya esta silla moderna que sin duda será el complemento ideal para tu hogar o espacio de trabajo!",
     reviews: [
       {
         rating: 4.6,
@@ -326,9 +326,9 @@ const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -349,9 +349,9 @@ const products = [
     category: "mobile",
     price: 599,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -372,9 +372,9 @@ const products = [
     category: "mobile",
     price: 799,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -395,9 +395,9 @@ const products = [
     category: "mobile",
     price: 899,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -418,9 +418,9 @@ const products = [
     category: "mobile",
     price: 699,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Con su diseño elegante y sofisticado, este dispositivo combina un hardware de alta calidad con un software intuitivo para crear un dispositivo impresionante y fácil de usar",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "El iPhone es mucho más que un teléfono inteligente, es una experiencia de usuario única. La cámara de alta definición y la pantalla retina ofrecen una calidad de imagen excepcional, mientras que el rendimiento del procesador A-series garantiza un funcionamiento suave y sin interrupciones. Además, la App Store ofrece una amplia variedad de aplicaciones y juegos, lo que convierte al iPhone en un dispositivo imprescindible para cualquier estilo de vida. ¡No te pierdas esta experiencia única y consigue ya tu iPhone!",
     reviews: [
       {
         rating: 4.8,
@@ -441,9 +441,9 @@ const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Es una pieza imprescindible de cualquier conjunto, que agrega un toque de elegancia y sofisticación a tu estilo personal",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Con su diseño clásico y atemporal, este reloj de alta calidad combina la precisión y la funcionalidad con el estilo y la elegancia. Fabricado con materiales de alta calidad, este reloj es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su precisión y fiabilidad lo convierten en una herramienta indispensable para cualquier persona que valore el tiempo y la puntualidad. ¡Agrega un toque de elegancia a tu estilo personal con este impresionante reloj!",
     reviews: [
       {
         rating: 4.8,
@@ -464,9 +464,9 @@ const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Es una pieza imprescindible de cualquier conjunto, que agrega un toque de elegancia y sofisticación a tu estilo personal",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Con su diseño clásico y atemporal, este reloj de alta calidad combina la precisión y la funcionalidad con el estilo y la elegancia. Fabricado con materiales de alta calidad, este reloj es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su precisión y fiabilidad lo convierten en una herramienta indispensable para cualquier persona que valore el tiempo y la puntualidad. ¡Agrega un toque de elegancia a tu estilo personal con este impresionante reloj!",
     reviews: [
       {
         rating: 4.8,
@@ -487,9 +487,9 @@ const products = [
     category: "watch",
     price: 299,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Es una pieza imprescindible de cualquier conjunto, que agrega un toque de elegancia y sofisticación a tu estilo personal",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Con su diseño clásico y atemporal, este reloj de alta calidad combina la precisión y la funcionalidad con el estilo y la elegancia. Fabricado con materiales de alta calidad, este reloj es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su precisión y fiabilidad lo convierten en una herramienta indispensable para cualquier persona que valore el tiempo y la puntualidad. ¡Agrega un toque de elegancia a tu estilo personal con este impresionante reloj!",
     reviews: [
       {
         rating: 4.8,
@@ -510,9 +510,9 @@ const products = [
     category: "watch",
     price: 399,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Es una pieza imprescindible de cualquier conjunto, que agrega un toque de elegancia y sofisticación a tu estilo personal",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Con su diseño clásico y atemporal, este reloj de alta calidad combina la precisión y la funcionalidad con el estilo y la elegancia. Fabricado con materiales de alta calidad, este reloj es resistente y duradero, lo que garantiza su uso a largo plazo. Además, su precisión y fiabilidad lo convierten en una herramienta indispensable para cualquier persona que valore el tiempo y la puntualidad. ¡Agrega un toque de elegancia a tu estilo personal con este impresionante reloj!",
     reviews: [
       {
         rating: 4.8,
@@ -533,9 +533,9 @@ const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Si estás buscando auriculares inalámbricos que te permitan disfrutar de tu música favorita con total libertad, ¡nuestros auriculares son la elección perfecta para ti!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Estos auriculares combinan comodidad y estilo para ofrecerte una experiencia de audio excepcional. La tecnología inalámbrica Bluetooth garantiza una conexión estable y sin interrupciones, mientras que la batería de larga duración te permite disfrutar de tu música durante horas sin preocuparte por cargarlos. Además, su calidad de sonido excepcional te permite sumergirte por completo en tu música favorita, sin distracciones externas. ¡No busques más y consigue ya estos auriculares inalámbricos que te brindarán una experiencia de audio inigualable!",
     reviews: [
       {
         rating: 4.8,
@@ -556,9 +556,9 @@ const products = [
     category: "wireless",
     price: 199,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+      "Si estás buscando auriculares inalámbricos que te permitan disfrutar de tu música favorita con total libertad, ¡nuestros auriculares son la elección perfecta para ti!",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+      "Estos auriculares combinan comodidad y estilo para ofrecerte una experiencia de audio excepcional. La tecnología inalámbrica Bluetooth garantiza una conexión estable y sin interrupciones, mientras que la batería de larga duración te permite disfrutar de tu música durante horas sin preocuparte por cargarlos. Además, su calidad de sonido excepcional te permite sumergirte por completo en tu música favorita, sin distracciones externas. ¡No busques más y consigue ya estos auriculares inalámbricos que te brindarán una experiencia de audio inigualable!",
     reviews: [
       {
         rating: 4.8,
