@@ -1,4 +1,4 @@
-.filter__widget select {
+.filter__widget button {
   padding: 8px 20px;
   border-radius: 5px;
   cursor: pointer;
@@ -10,9 +10,22 @@
   outline: none !important;
 }
 
-.filter__widget select a option {
+.filter__widget select a div {
   font-size: 0.9rem;
   cursor: pointer;
+}
+
+.dropdown-menu {
+  padding: 0;
+}
+
+.dropdown-menu li:hover {
+  color: #fff;
+  background: var(--primary-color);
+}
+
+.dropdown-menu li a:hover {
+  color: rgba(275, 275, 275, 0.5);
 }
 
 .search__box {
