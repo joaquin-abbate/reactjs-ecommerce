@@ -18,9 +18,10 @@ const Footer = () => {
               </div>
             </div>
             <p className="footer__text mt-4">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
-              itaque, dolorum debitis vero voluptas aut in molestias. Nisi,
-              dolores atque?
+              Shopstar es sin duda uno de los mejores e-commerce en el mercado
+              actual debido a su amplia variedad de productos disponibles para
+              la venta, que incluyen desde sillones, sillas, auriculares,
+              teléfonos móviles y hasta relojes.
             </p>
           </Col>
 
@@ -29,19 +30,23 @@ const Footer = () => {
               <h4 className="quick__links-title">Categorias</h4>
               <ListGroup>
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Telefonos</Link>
+                  <Link to="shop/mobile">Telefonos</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Sillas</Link>
+                  <Link to="shop/chair">Sillas</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Sillones</Link>
+                  <Link to="shop/sofa">Sillones</Link>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0">
-                  <Link to="#">Relojes</Link>
+                  <Link to="shop/watch">Relojes</Link>
+                </ListGroupItem>
+
+                <ListGroupItem className="ps-0 border-0">
+                  <Link to="shop/wireless">Auriculares</Link>
                 </ListGroupItem>
               </ListGroup>
             </div>
