@@ -5,6 +5,7 @@ import { Container, Row, Col } from "reactstrap";
 import "../styles/shop.css";
 import products from "../assets/data/products";
 import ProductList from "../components/UI/ProductList";
+import DropdownMenu from "../components/UI/dropdown";
 
 const Shop = () => {
   const [productsData, setProductsData] = useState(products);
@@ -77,26 +78,9 @@ const Shop = () => {
       <section>
         <Container>
           <Row>
-            <Col lg="3" md="6">
+            <Col lg="6" md="6">
               <div className="filter__widget">
-                <select onChange={handleFilter}>
-                  <option value="default">Filtra por categoria</option>
-                  <option value="sofa">Sofa</option>
-                  <option value="mobile">Telefonos</option>
-                  <option value="chair">Sillas</option>
-                  <option value="watch">Relojes</option>
-                  <option value="wireless">Auriculares</option>
-                </select>
-              </div>
-            </Col>
-
-            <Col lg="3" md="6" className="text-end">
-              <div className="filter__widget">
-                <select>
-                  <option>Ordena por categoria</option>
-                  <option value="ascending">Ascendente</option>
-                  <option value="descending">Descendiente</option>
-                </select>
+                <DropdownMenu />
               </div>
             </Col>
 
